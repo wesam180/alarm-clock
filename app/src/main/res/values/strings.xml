@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Alarm Clock</string>
+    <string name="set_alarm">Set Alarm</string>
+    <string name="cancel_alarm">Cancel Alarm</string>
+    <string name="alarm_set_msg">Alarm set for: %1$s</string>
+    <string name="no_alarm_set">No alarm set</string>
+</resources>
